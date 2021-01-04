@@ -10,10 +10,7 @@ client.on("ready", async () => {
         activity: {
             name: "Made with ❤ by Muratva Stark",
             type: "WATCHING"
-        },
-        afk: false,
-        status: "dnd",
-        shardID: 0
+        }
     });
     await (client.channels.cache.get(CONFIG.VOICE_CHANNEL) as VoiceChannel).join();
     pogger.info(`${client.user?.username} is online.`);
