@@ -9,16 +9,6 @@
 
 ### 🏠 [Homepage](https://github.com/muratvastark/discord-welcome-bot)
 
-## Install
-
-```sh
-npm install
-```
-
-```sh
-yarn
-```
-
 ## Usage
 
 1. Clone repo.
