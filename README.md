@@ -23,7 +23,7 @@
 
 👤 **Muratva Stark**
 
-* Discord: https://discord.com/users/470974660264067072
+* Discord: [Muratva Stark](https://discord.com/users/470974660264067072)
 * Github: [@muratvastark](https://github.com/muratvastark)
 
 ## 🤝 Contributing
@@ -37,4 +37,4 @@ Give a ⭐️ if this project helped you!
 ## 📝 License
 
 Copyright © 2021 [Muratva Stark](https://github.com/muratvastark).<br />
-This project is [MIT](https://github.com/muratvastark/discord-welcome-bot/LICENSE) licensed.
+This project is [MIT](https://github.com/muratvastark/discord-welcome-bot/blob/main/LICENSE) licensed.
